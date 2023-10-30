@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @goroshik15
+- 👀 I’m interested in BACKEND DEVELOPMENT
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on writing a launcher
+- 📫 How to reach me realleon16@gmail.com...
